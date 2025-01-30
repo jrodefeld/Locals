@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv><channel id="MNT.(WNYW3).New.York,.NY.us">
+    <display-name lang="en">MNT (WNYW3) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s121307_h15_aa.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20250129060000 -0500" stop="20250129065900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129065900 -0500" stop="20250129075900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129075900 -0500" stop="20250129085900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250129085900 -0500" stop="20250129095900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250129095900 -0500" stop="20250129105900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250129105900 -0500" stop="20250129115900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250129115900 -0500" stop="20250129125900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129125900 -0500" stop="20250129135900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129135900 -0500" stop="20250129145900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129145900 -0500" stop="20250129155900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129155900 -0500" stop="20250129165900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129165900 -0500" stop="20250129175900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129175900 -0500" stop="20250129185900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129185900 -0500" stop="20250129195900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129195900 -0500" stop="20250129205900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250129205900 -0500" stop="20250129215900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129215900 -0500" stop="20250129225900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129225900 -0500" stop="20250129235900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129235900 -0500" stop="20250130005900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130005900 -0500" stop="20250130015900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130015900 -0500" stop="20250130025900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130025900 -0500" stop="20250130035900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130035900 -0500" stop="20250130045900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130045900 -0500" stop="20250130060000 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130060000 -0500" stop="20250130065900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130065900 -0500" stop="20250130075900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130075900 -0500" stop="20250130085900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250130085900 -0500" stop="20250130095900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250130095900 -0500" stop="20250130105900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250130105900 -0500" stop="20250130115900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250130115900 -0500" stop="20250130125900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130125900 -0500" stop="20250130135900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130135900 -0500" stop="20250130145900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130145900 -0500" stop="20250130155900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130155900 -0500" stop="20250130165900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130165900 -0500" stop="20250130175900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130175900 -0500" stop="20250130185900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130185900 -0500" stop="20250130195900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130195900 -0500" stop="20250130205900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250130205900 -0500" stop="20250130215900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130215900 -0500" stop="20250130225900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130225900 -0500" stop="20250130235900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130235900 -0500" stop="20250131005900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131005900 -0500" stop="20250131015900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131015900 -0500" stop="20250131025900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131025900 -0500" stop="20250131035900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131035900 -0500" stop="20250131045900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131045900 -0500" stop="20250131060000 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131060000 -0500" stop="20250131065900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131065900 -0500" stop="20250131075900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather First</title>
+    <desc lang="en">Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131075900 -0500" stop="20250131085900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250131085900 -0500" stop="20250131095900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250131095900 -0500" stop="20250131105900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250131105900 -0500" stop="20250131115900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Weather Command</title>
+    <desc lang="en">Going inside the Weather Command Center for America's forecast authority for all the latest breaking weather news; tracking every storm as FOX Weather meteorologists, contributors and correspondents deliver real-time weather alerts and forecasting.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250131115900 -0500" stop="20250131125900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131125900 -0500" stop="20250131135900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131135900 -0500" stop="20250131145900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: America's Weather Center</title>
+    <desc lang="en">Kendall Smith, Craig Herrera and Michael Estime take a deep dive into the day's weather events.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131145900 -0500" stop="20250131155900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131155900 -0500" stop="20250131165900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131165900 -0500" stop="20250131175900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Now</title>
+    <desc lang="en">Ian Oliver delivers the up-to-the-minute play-by-play of the nation's weather news; Ian and friends use their experience and expertise to interpret the latest forecasts and give perspective on the day's weather news.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131175900 -0500" stop="20250131185900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131185900 -0500" stop="20250131195900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131195900 -0500" stop="20250131205900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250131205900 -0500" stop="20250131215900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131215900 -0500" stop="20250131225900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live</title>
+    <desc lang="en">Hosting from Studio W as extreme weather strikes; providing real-time alerts and information to keep families safe and ready for the next day ahead.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131225900 -0500" stop="20250131235900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131235900 -0500" stop="20250201005900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201005900 -0500" stop="20250201015900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201015900 -0500" stop="20250201025900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201025900 -0500" stop="20250201035900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201035900 -0500" stop="20250201045900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Acadia / Sequoia / Kings Canyon</sub-title>
+    <desc lang="en">Abby visits Acadia, Sequoia and Kings Canyon National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201045900 -0500" stop="20250201055900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Fox Nation: PARK'D</title>
+    <sub-title lang="en">Channel Islands / Grand Teton</sub-title>
+    <desc lang="en">Abby visits the Channel Islands and Grand Teton National Park for an inside look.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201055900 -0500" stop="20250201070000 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Fox Weather First Weekend</title>
+    <desc lang="en">Wake up to the first forecast for the weekend with Craig Herrera, Jane Minar, and Michael Estime; we've got you covered with America's biggest weather news and help you prepare for what's ahead.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250201070000 -0500" stop="20250201080000 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Fox Weather First Weekend</title>
+    <desc lang="en">Wake up to the first forecast for the weekend with Craig Herrera, Jane Minar, and Michael Estime; we've got you covered with America's biggest weather news and help you prepare for what's ahead.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250201080000 -0500" stop="20250201090000 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: Fox Weather First Weekend</title>
+    <desc lang="en">Wake up to the first forecast for the weekend with Craig Herrera, Jane Minar, and Michael Estime; we've got you covered with America's biggest weather news and help you prepare for what's ahead.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250201090000 -0500" stop="20250201095900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live Weekend</title>
+    <desc lang="en">Latest forecasts from FOX Weather; all the latest weather news.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250201095900 -0500" stop="20250201105900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live Weekend</title>
+    <desc lang="en">Latest forecasts from FOX Weather; all the latest weather news.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250201105900 -0500" stop="20250201115900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live Weekend</title>
+    <desc lang="en">Latest forecasts from FOX Weather; all the latest weather news.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250201115900 -0500" stop="20250201125900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Live: FOX Weather Live Weekend</title>
+    <desc lang="en">Latest forecasts from FOX Weather; all the latest weather news.</desc>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250201125900 -0500" stop="20250201135900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">FOX Weather Live Weekend</title>
+    <desc lang="en">Latest forecasts from FOX Weather; all the latest weather news.</desc>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201135900 -0500" stop="20250201145900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201145900 -0500" stop="20250201155900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201155900 -0500" stop="20250201165900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201165900 -0500" stop="20250201175900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201175900 -0500" stop="20250201185900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201185900 -0500" stop="20250201195900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201195900 -0500" stop="20250201205900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201205900 -0500" stop="20250201215900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201215900 -0500" stop="20250201225900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201225900 -0500" stop="20250201235900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201235900 -0500" stop="20250202005900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202005900 -0500" stop="20250202015900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202015900 -0500" stop="20250202025900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202025900 -0500" stop="20250202035900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202035900 -0500" stop="20250202045900 -0500" channel="MNT.(WNYW3).New.York,.NY.us">
+    <title lang="en">Eyes in the Storm</title>
+    <desc lang="en">FOX Weather Exclusive Storm Tracker Mark Sudduth and his network of cameras takes viewers into the ferocity of Earth's most vicious hurricanes.</desc>
+    <category lang="en">Specials</category>
+    <previously-shown/>
+  </programme>
+  </tv>
