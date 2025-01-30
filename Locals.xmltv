@@ -1,0 +1,1962 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv><channel id="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <display-name lang="en">ABC (KDRV) Medford - Klamath Falls, OR</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ABC.(KEZI).Eugene,.OR.us">
+    <display-name lang="en">ABC (KEZI) Eugene, OR</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png"/>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20250129050600 -0500" stop="20250129060600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Sterling K. Brown (Hulu's "Paradise"); Lisa Ann Walter (ABC's "Abbott Elementary"); Dr. Wendy Bazilian kicks off healthy eating week of "How to Thrive in '25" with the latest news on nutrition.Guests: Sterling K. Brown, Lisa Ann Walter, Dr. Wendy Bazilian..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129060600 -0500" stop="20250129073000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129073000 -0500" stop="20250129080000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129080000 -0500" stop="20250129090000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129090000 -0500" stop="20250129100000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129100000 -0500" stop="20250129120000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Fitness expert Chris Powell; music icon Gloria Gaynor and actress Joaquina Kalukango; actress Reese Witherspoon; Deals &amp; Steals.Guests: Chris Powell, Gloria Gaynor, Joaquina Kalukango, Reese Witherspoon..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129120000 -0500" stop="20250129130000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lacey Chabert; Dr. Jennifer Ashton talks about the power of protein as a part of "How to Thrive in '25" healthy eating week.Guests: Lacey Chabert, Dr. Jennifer Ashton..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129130000 -0500" stop="20250129140000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Actor Harvey Guillén.Guests: Harvey Guillén..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250129140000 -0500" stop="20250129150000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250129150000 -0500" stop="20250129160000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Music icon Gloria Gaynor and actress Joaquina Kalukango; Deals &amp; Steals; tips for landing your dream job in 2025.Guests: Gloria Gaynor, Joaquina Kalukango, Meghan Houle..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129160000 -0500" stop="20250129170000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Dante is horrified; Tracy and Martin have a run-in; Cody is blindsided; Brook Lynn ponders her next move; Sasha opens up to Jason.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250129170000 -0500" stop="20250129173000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129173000 -0500" stop="20250129180000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129180000 -0500" stop="20250129183000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <desc lang="en">Judge Marilyn Milian presides over small-claims court arbitrations.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129183000 -0500" stop="20250129190000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <sub-title lang="en">Washed Out</sub-title>
+    <desc lang="en">A secondhand washer and dryer are sold to someone else after a large deposit is paid for them.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129190000 -0500" stop="20250129200000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250129200000 -0500" stop="20250129203000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129203000 -0500" stop="20250129210000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129210000 -0500" stop="20250129213000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129213000 -0500" stop="20250129220000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Newswatch 12 at 6:30</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250129220000 -0500" stop="20250129223000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">Tournament of Champions</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250129223000 -0500" stop="20250129230000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">America the Beautiful</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250129230000 -0500" stop="20250129233000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Shifting Gears</title>
+    <sub-title lang="en">Grief</sub-title>
+    <desc lang="en">When Riley discovers a closet filled with her late mother's clothes, she insists Matt hasn't processed her death and urges him to see a grief counselor; Gabriel faces a crisis of confidence when he's put in charge of the shop for a day.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Kat Dennings</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129233000 -0500" stop="20250130000200 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Abbott Elementary</title>
+    <sub-title lang="en">Girard Creek</sub-title>
+    <desc lang="en">A group of dedicated, passionate teachers work to help their students succeed in life despite being outnumbered and underfunded.</desc>
+    <credits>
+      <actor>Quinta Brunson</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Janelle James</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130000200 -0500" stop="20250130010200 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Celebrity Jeopardy!</title>
+    <sub-title lang="en">Quarterfinal #4: Roy Wood Jr., Brian Jordan Alvarez and Phoebe Robinson</sub-title>
+    <desc lang="en">Celebrity contestants Roy Wood Jr., Brian Jordan Alvarez and Phoebe Robinson.Guests: Roy Wood, Brian Jordan Alvarez, Phoebe Robinson..</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130010200 -0500" stop="20250130020000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Paradise</title>
+    <sub-title lang="en">Wildcat Is Down</sub-title>
+    <desc lang="en">It's just another day in Paradise until Agent Xavier Collins discovers one of the world's most powerful individuals has been murdered; Xavier analyzes the crime scene while recalling his complex relationship with the victim.</desc>
+    <credits>
+      <actor>Sterling K. Brown</actor>
+      <actor>James Marsden</actor>
+      <actor>Krys Marshall</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <premiere lang="en"/>
+    <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20250130020000 -0500" stop="20250130023500 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 11:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130023500 -0500" stop="20250130033700 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Rob McElhenney; Katy Perry; Simple Minds</sub-title>
+    <desc lang="en">Actor Rob McElhenney; singer-songwriter Katy Perry; Simple Minds perform.Guests: Rob McElhenney, Katy Perry..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130033700 -0500" stop="20250130040600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130040600 -0500" stop="20250130043600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <desc lang="en">Three judges argue the merits of a case among themselves and render a verdict.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250130043600 -0500" stop="20250130050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Best Friends For-Never</sub-title>
+    <desc lang="en">A man who moved in with his best friend from high school says he fell behind on rent trying to keep up with his friend's lavish lifestyle, so his friend offered to cover him; the friend says he made no such offer and now wants to be repaid.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250130050600 -0500" stop="20250130050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lacey Chabert; Dr. Jennifer Ashton talks about the power of protein as a part of "How to Thrive in '25" healthy eating week.Guests: Lacey Chabert, Dr. Jennifer Ashton..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130050600 -0500" stop="20250130060600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lacey Chabert; Dr. Jennifer Ashton talks about the power of protein as a part of "How to Thrive in '25" healthy eating week.Guests: Lacey Chabert, Dr. Jennifer Ashton..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130060600 -0500" stop="20250130073000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130073000 -0500" stop="20250130080000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130080000 -0500" stop="20250130090000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130090000 -0500" stop="20250130100000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130100000 -0500" stop="20250130120000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Deals &amp; Steals; chef Carmen Callo reveals the official menu at Super Bowl LIX; fitness expert Chris Powell; Joey Fatone performs.Guests: Tory Johnson, Carmen Callo, Chris Powell..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130120000 -0500" stop="20250130130000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Garcelle Beauvais ("The Real Housewives of Beverly Hills"); shopping day with Monica Mangin; Dr. William Li talks about food as medicine on another edition of "How to Thrive in '25."Guests: Garcelle Beauvais, Monica Mangin, Dr. William Li..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130130000 -0500" stop="20250130140000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Henry Louis Gates Jr.Guests: Henry Louis Gates Jr...</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130140000 -0500" stop="20250130150000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250130150000 -0500" stop="20250130160000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Attorney Brian Buckmire shares legal advice and answers viewer questions; comic Michael Yo; TV host Samantha Brown.Guests: Brian Buckmire, Milly Almodovar, Michael Yo, Samantha Brown..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130160000 -0500" stop="20250130170000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Carly and Brennan get closer; Lulu confides in Maxie; Molly and Kristina are stunned; Dante briefs Chase; Cody jumps to conclusions.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130170000 -0500" stop="20250130173000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130173000 -0500" stop="20250130180000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130180000 -0500" stop="20250130183000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <desc lang="en">Judge Marilyn Milian presides over small-claims court arbitrations.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130183000 -0500" stop="20250130190000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <sub-title lang="en">Living Funeral &amp; Big Mouthed Friend</sub-title>
+    <desc lang="en">A woman says her friend turned her living funeral into a roast and ruined the event; a dispute between friends over a pregnancy announcement.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130190000 -0500" stop="20250130200000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250130200000 -0500" stop="20250130203000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130203000 -0500" stop="20250130210000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130210000 -0500" stop="20250130213000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130213000 -0500" stop="20250130220000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Newswatch 12 at 6:30</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250130220000 -0500" stop="20250130223000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">Tournament of Champions</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250130223000 -0500" stop="20250130230000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">America the Beautiful</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250130230000 -0500" stop="20250131000100 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Extreme Makeover: Home Edition</title>
+    <sub-title lang="en">The Elrod Family</sub-title>
+    <desc lang="en">The hosts aid a deserving family in Houston who lost their home, beloved grandmother and pet cat in a devastating fire.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131000100 -0500" stop="20250131010100 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Scamanda</title>
+    <sub-title lang="en">Stage 1: Perfect Wife, Perfect Life</sub-title>
+    <desc lang="en">A beautiful young mother is given a devastating cancer diagnosis; her community and church rally around her as she inspires thousands more with a blog, bravely chronicling her journey.</desc>
+    <category lang="en">Documentary</category>
+    <premiere lang="en"/>
+  </programme>
+  <programme start="20250131010100 -0500" stop="20250131020000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Perfect Wife: The Mysterious Disappearance of Sherri Papini</title>
+    <sub-title lang="en">It's a Wonderful Life With You</sub-title>
+    <desc lang="en">When young mother Sherri Papini vanishes a mile from her rural California home during a morning jog, all eyes are on her husband Keith, but as the frantic search to find her makes headlines around the world, investigators are dumbfounded.</desc>
+    <category lang="en">Documentary</category>
+    <premiere lang="en"/>
+  </programme>
+  <programme start="20250131020000 -0500" stop="20250131023500 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 11:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131023500 -0500" stop="20250131033700 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Pamela Anderson; Will Sasso; The Weeknd</sub-title>
+    <desc lang="en">Actress Pamela Anderson; actor Will Sasso; The Weeknd performs.Guests: Pamela Anderson, Will Sasso..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131033700 -0500" stop="20250131040600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131040600 -0500" stop="20250131043600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <desc lang="en">Three judges argue the merits of a case among themselves and render a verdict.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250131043600 -0500" stop="20250131050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Dear Sis I Hit a Deer</sub-title>
+    <desc lang="en">A woman takes her sister's car late at night to buy beer and blames a deer for damaging the car; her sister accuses her of drinking beforehand and taking her keys without permission.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250131050600 -0500" stop="20250131050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Garcelle Beauvais ("The Real Housewives of Beverly Hills"); shopping day with Monica Mangin; Dr. William Li talks about food as medicine on another edition of "How to Thrive in '25."Guests: Garcelle Beauvais, Monica Mangin, Dr. William Li..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131050600 -0500" stop="20250131060600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Garcelle Beauvais ("The Real Housewives of Beverly Hills"); shopping day with Monica Mangin; Dr. William Li talks about food as medicine on another edition of "How to Thrive in '25."Guests: Garcelle Beauvais, Monica Mangin, Dr. William Li..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131060600 -0500" stop="20250131073000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131073000 -0500" stop="20250131080000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131080000 -0500" stop="20250131090000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131090000 -0500" stop="20250131100000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 This Morning at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131100000 -0500" stop="20250131120000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Dr. Whitney Bowe with skincare tips for mature skin; wearable tech.Guests: Whitney Bowe..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131120000 -0500" stop="20250131130000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lauren Graham; the "How to Thrive in '25" series concludes with suggestions on how to increase GLP-1 naturally from Dr. Melina Jampolis; Aloe Blacc performs.Guests: Lauren Graham, Dr. Melina Jampolis..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131130000 -0500" stop="20250131140000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">"Good Morning America" co-host Michael Strahan.Guests: Michael Strahan..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131140000 -0500" stop="20250131150000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250131150000 -0500" stop="20250131160000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Author and pastor Jonathan "JP" Pokluda; organizational tips with Leslie Corona of Real Simple magazine.Guests: Jonathan..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131160000 -0500" stop="20250131170000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Ric and Ava make a plea; Dante confronts Anna; Brook Lynn seeks out Cody; Laura gives Lulu food for thought; Brad makes an outrageous request.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131170000 -0500" stop="20250131173000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131173000 -0500" stop="20250131180000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131180000 -0500" stop="20250131183000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <desc lang="en">Judge Marilyn Milian presides over small-claims court arbitrations.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131183000 -0500" stop="20250131190000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Justice for the People With Judge Milian</title>
+    <sub-title lang="en">Heaven Only Knows</sub-title>
+    <desc lang="en">A woman sues a fellow churchgoer, saying she was scammed out of a choir robe and overcharged for holy water.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131190000 -0500" stop="20250131200000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250131200000 -0500" stop="20250131203000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131203000 -0500" stop="20250131210000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131210000 -0500" stop="20250131213000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 6:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131213000 -0500" stop="20250131220000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Newswatch 12 at 6:30</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250131220000 -0500" stop="20250131223000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">Tournament of Champions</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250131223000 -0500" stop="20250131230000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">America the Beautiful</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250131230000 -0500" stop="20250201000100 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">Budding entrepreneurs get the chance to bring their dreams to fruition, presenting their ideas to five titans of industry who succeeded in making their own dreams a reality.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201000100 -0500" stop="20250201020000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201020000 -0500" stop="20250201023500 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Newswatch 12 at 11:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201023500 -0500" stop="20250201033700 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <desc lang="en">Jimmy Kimmel hosts a diverse lineup of guests that includes celebrities, athletes, musical acts,comics and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250201033700 -0500" stop="20250201040600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201040600 -0500" stop="20250201043600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <desc lang="en">Three judges argue the merits of a case among themselves and render a verdict.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201043600 -0500" stop="20250201050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Hot Bench</title>
+    <sub-title lang="en">Pain Pill Predicament</sub-title>
+    <desc lang="en">An elderly man accuses a woman, who ran pharmacy errands for him, of pocketing some of his pain pills; she says he whacked her car with his cane as she tried to leave, and she wants him to pay for the dents.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201050600 -0500" stop="20250201050600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lauren Graham; the "How to Thrive in '25" series concludes with suggestions on how to increase GLP-1 naturally from Dr. Melina Jampolis; Aloe Blacc performs.Guests: Lauren Graham, Dr. Melina Jampolis..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201050600 -0500" stop="20250201060600 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lauren Graham; the "How to Thrive in '25" series concludes with suggestions on how to increase GLP-1 naturally from Dr. Melina Jampolis; Aloe Blacc performs.Guests: Lauren Graham, Dr. Melina Jampolis..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201060600 -0500" stop="20250201070000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Entertainers: With Byron Allen</title>
+    <desc lang="en">Jude Law ("The Order"); Christina Milian ("Meet Me Next Christmas"); Chloe Bennet ("Interior Chinatown"); Lacey Chabert and Dustin Milligan ("Hot Frosty"); Clay Aiken; Richard Curtis; Sarah Drew; Wilmer Valderrama; Zooey Deschanel; Sabrina Carpenter.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201070000 -0500" stop="20250201073000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">MyDestination.TV</title>
+    <sub-title lang="en">Gorgeous Gardens: London in the Winter</sub-title>
+    <desc lang="en">An invitation to look at the most exclusive vacation retreats around the world, including luxury hotels, hideaways and the best in spa escapes.</desc>
+    <category lang="en">Travel</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201073000 -0500" stop="20250201080000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Cars.TV</title>
+    <sub-title lang="en">Petersen Automotive Museum</sub-title>
+    <desc lang="en">Porsche; Chevy; race cars; lowriders; bikes; classic tires.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Automotive</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201080000 -0500" stop="20250201083000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201083000 -0500" stop="20250201090000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">The American Athlete</title>
+    <desc lang="en">Olympic surfer Alan Cleland; NFL player Pharaoh Brown.; Olympic water polo player Kaleigh Gilcrest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201090000 -0500" stop="20250201100000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201100000 -0500" stop="20250201110000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201110000 -0500" stop="20250201120000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: Oregon News Now This Morning</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250201120000 -0500" stop="20250201130000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">NFL Generations</title>
+    <desc lang="en">Bridging the game's past and present by pairing NFL legends with current NFL stars who grew up watching them.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201130000 -0500" stop="20250201153000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">Chicago Blackhawks at Florida Panthers</sub-title>
+    <desc lang="en">The latest hockey action from across the NHL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250201153000 -0500" stop="20250201180000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">New York Rangers at Boston Bruins</sub-title>
+    <desc lang="en">From TD Garden in Boston.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250201180000 -0500" stop="20250201183000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">The American Athlete</title>
+    <desc lang="en">NFL player Jason Cabinda; Olympic athlete Sabine Schut-Kery; Olympic rugby player Malacchi Esdale.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201183000 -0500" stop="20250201190000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201190000 -0500" stop="20250201193000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Career Day</title>
+    <sub-title lang="en">Disney Careers</sub-title>
+    <desc lang="en">Disney costume designer; Radio Disney DJ; Disneyland Resort ambassadors; Disney animator.</desc>
+    <category lang="en">Instructional</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201193000 -0500" stop="20250201200000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201200000 -0500" stop="20250201203000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: NBA Countdown</title>
+    <desc lang="en">Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250201203000 -0500" stop="20250201230000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Los Angeles Lakers at New York Knicks</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250201230000 -0500" stop="20250201233000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201233000 -0500" stop="20250202000000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202000000 -0500" stop="20250202010000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Kickin' It: With Byron Allen</title>
+    <desc lang="en">Jodie Turner-Smith ("The Agency"); Taika Waititi and Charles Yu ("Interior Chinatown"); Scott Eastwood; Andie MacDowell; Nicholas Hoult; Tilda Swinton; Lisa Sundstedt; Krysten Ritter; Pedro Pascal; Blake Lively; music download: Shawn Mendes.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202010000 -0500" stop="20250202013000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Jeopardy!</title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202013000 -0500" stop="20250202020000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">Weekend Getaways</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202020000 -0500" stop="20250202023500 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Oregon News Now at 11:00</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202023500 -0500" stop="20250202030000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202030000 -0500" stop="20250202040000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Storm of Suspicion</title>
+    <sub-title lang="en">No Stone Unturned</sub-title>
+    <desc lang="en">A young woman is murdered in an Ohio cemetery; chilly weather helps preserve evidence that reveals the identity of her killer nearly two decades later.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202040000 -0500" stop="20250202050000 -0500" channel="ABC.(KDRV).Medford.-.Klamath.Falls,.OR.us">
+    <title lang="en">Weather Gone Viral</title>
+    <sub-title lang="en">It's Snow Crazy</sub-title>
+    <desc lang="en">A series of videos capturing some of the most extreme and destructive weather conditions; firsthand accounts, and professional meteorologists experience the fury of Mother Nature.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">Documentary</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250129060000 -0500" stop="20250129070000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Sterling K. Brown (Hulu's "Paradise"); Lisa Ann Walter (ABC's "Abbott Elementary"); Dr. Wendy Bazilian kicks off healthy eating week of "How to Thrive in '25" with the latest news on nutrition.Guests: Sterling K. Brown, Lisa Ann Walter, Dr. Wendy Bazilian..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129070000 -0500" stop="20250129073000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129073000 -0500" stop="20250129080000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129080000 -0500" stop="20250129083000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129083000 -0500" stop="20250129090000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129090000 -0500" stop="20250129100000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129100000 -0500" stop="20250129120000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Fitness expert Chris Powell; music icon Gloria Gaynor and actress Joaquina Kalukango; actress Reese Witherspoon; Deals &amp; Steals.Guests: Chris Powell, Gloria Gaynor, Joaquina Kalukango, Reese Witherspoon..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129120000 -0500" stop="20250129130000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lacey Chabert; Dr. Jennifer Ashton talks about the power of protein as a part of "How to Thrive in '25" healthy eating week.Guests: Lacey Chabert, Dr. Jennifer Ashton..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129130000 -0500" stop="20250129140000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Actor Harvey Guillén.Guests: Harvey Guillén..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250129140000 -0500" stop="20250129160000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250129160000 -0500" stop="20250129170000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Music icon Gloria Gaynor and actress Joaquina Kalukango; Deals &amp; Steals; tips for landing your dream job in 2025.Guests: Gloria Gaynor, Joaquina Kalukango, Meghan Houle..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129170000 -0500" stop="20250129173000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129173000 -0500" stop="20250129180000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129180000 -0500" stop="20250129183000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129183000 -0500" stop="20250129190000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129190000 -0500" stop="20250129200000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250129200000 -0500" stop="20250129203000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129203000 -0500" stop="20250129210000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129210000 -0500" stop="20250129213000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129213000 -0500" stop="20250129220000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6:30</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129220000 -0500" stop="20250129223000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129223000 -0500" stop="20250129230000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250129230000 -0500" stop="20250129233000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Shifting Gears</title>
+    <sub-title lang="en">Grief</sub-title>
+    <desc lang="en">When Riley discovers a closet filled with her late mother's clothes, she insists Matt hasn't processed her death and urges him to see a grief counselor; Gabriel faces a crisis of confidence when he's put in charge of the shop for a day.</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Kat Dennings</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250129233000 -0500" stop="20250130000200 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Abbott Elementary</title>
+    <sub-title lang="en">Girard Creek</sub-title>
+    <desc lang="en">A group of dedicated, passionate teachers work to help their students succeed in life despite being outnumbered and underfunded.</desc>
+    <credits>
+      <actor>Quinta Brunson</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Janelle James</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130000200 -0500" stop="20250130010200 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Celebrity Jeopardy!</title>
+    <sub-title lang="en">Quarterfinal #4: Roy Wood Jr., Brian Jordan Alvarez and Phoebe Robinson</sub-title>
+    <desc lang="en">Celebrity contestants Roy Wood Jr., Brian Jordan Alvarez and Phoebe Robinson.Guests: Roy Wood, Brian Jordan Alvarez, Phoebe Robinson..</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130010200 -0500" stop="20250130020000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Paradise</title>
+    <sub-title lang="en">Wildcat Is Down</sub-title>
+    <desc lang="en">It's just another day in Paradise until Agent Xavier Collins discovers one of the world's most powerful individuals has been murdered; Xavier analyzes the crime scene while recalling his complex relationship with the victim.</desc>
+    <credits>
+      <actor>Sterling K. Brown</actor>
+      <actor>James Marsden</actor>
+      <actor>Krys Marshall</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <premiere lang="en"/>
+    <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20250130020000 -0500" stop="20250130023500 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130023500 -0500" stop="20250130033700 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Rob McElhenney; Katy Perry; Simple Minds</sub-title>
+    <desc lang="en">Actor Rob McElhenney; singer-songwriter Katy Perry; Simple Minds perform.Guests: Rob McElhenney, Katy Perry..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130033700 -0500" stop="20250130040600 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130040600 -0500" stop="20250130043000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130043000 -0500" stop="20250130050000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ES.TV</title>
+    <desc lang="en">Andie MacDowell ("The Way Home"); Brian Tyree Henry ("The Fire Inside"); Gaia Wise ("The Lord of the Rings: The War of the Rohirrim"); Chris Pratt ("The Garfield Movie"); comic Lisa Sundstedt; music download: The Castellows ("Place to Leave").</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130050000 -0500" stop="20250130053000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130053000 -0500" stop="20250130060000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Justice for All With Judge Cristina Pérez</title>
+    <sub-title lang="en">Sorry Not Sorry &amp; Tummy Tuck Giveaway</sub-title>
+    <desc lang="en">A man sues his ex-girlfriend for money she was supposed to save for him, but spent instead; a dispute over the cost of a tummy tuck.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130060000 -0500" stop="20250130070000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lacey Chabert; Dr. Jennifer Ashton talks about the power of protein as a part of "How to Thrive in '25" healthy eating week.Guests: Lacey Chabert, Dr. Jennifer Ashton..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130070000 -0500" stop="20250130073000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130073000 -0500" stop="20250130080000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130080000 -0500" stop="20250130083000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130083000 -0500" stop="20250130090000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130090000 -0500" stop="20250130100000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130100000 -0500" stop="20250130120000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Deals &amp; Steals; chef Carmen Callo reveals the official menu at Super Bowl LIX; fitness expert Chris Powell; Joey Fatone performs.Guests: Tory Johnson, Carmen Callo, Chris Powell..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130120000 -0500" stop="20250130130000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Garcelle Beauvais ("The Real Housewives of Beverly Hills"); shopping day with Monica Mangin; Dr. William Li talks about food as medicine on another edition of "How to Thrive in '25."Guests: Garcelle Beauvais, Monica Mangin, Dr. William Li..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130130000 -0500" stop="20250130140000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Henry Louis Gates Jr.Guests: Henry Louis Gates Jr...</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130140000 -0500" stop="20250130150000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250130150000 -0500" stop="20250130160000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Attorney Brian Buckmire shares legal advice and answers viewer questions; comic Michael Yo; TV host Samantha Brown.Guests: Brian Buckmire, Milly Almodovar, Michael Yo, Samantha Brown..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130160000 -0500" stop="20250130170000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Carly and Brennan get closer; Lulu confides in Maxie; Molly and Kristina are stunned; Dante briefs Chase; Cody jumps to conclusions.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250130170000 -0500" stop="20250130173000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130173000 -0500" stop="20250130180000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130180000 -0500" stop="20250130183000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130183000 -0500" stop="20250130190000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130190000 -0500" stop="20250130200000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250130200000 -0500" stop="20250130203000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130203000 -0500" stop="20250130210000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130210000 -0500" stop="20250130213000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130213000 -0500" stop="20250130220000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6:30</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130220000 -0500" stop="20250130223000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250130223000 -0500" stop="20250130230000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250130230000 -0500" stop="20250131000100 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Extreme Makeover: Home Edition</title>
+    <sub-title lang="en">The Elrod Family</sub-title>
+    <desc lang="en">The hosts aid a deserving family in Houston who lost their home, beloved grandmother and pet cat in a devastating fire.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Home</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131000100 -0500" stop="20250131010100 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Scamanda</title>
+    <sub-title lang="en">Stage 1: Perfect Wife, Perfect Life</sub-title>
+    <desc lang="en">A beautiful young mother is given a devastating cancer diagnosis; her community and church rally around her as she inspires thousands more with a blog, bravely chronicling her journey.</desc>
+    <category lang="en">Documentary</category>
+    <premiere lang="en"/>
+  </programme>
+  <programme start="20250131010100 -0500" stop="20250131020000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Perfect Wife: The Mysterious Disappearance of Sherri Papini</title>
+    <sub-title lang="en">It's a Wonderful Life With You</sub-title>
+    <desc lang="en">When young mother Sherri Papini vanishes a mile from her rural California home during a morning jog, all eyes are on her husband Keith, but as the frantic search to find her makes headlines around the world, investigators are dumbfounded.</desc>
+    <category lang="en">Documentary</category>
+    <premiere lang="en"/>
+  </programme>
+  <programme start="20250131020000 -0500" stop="20250131023500 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131023500 -0500" stop="20250131033700 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Pamela Anderson; Will Sasso; The Weeknd</sub-title>
+    <desc lang="en">Actress Pamela Anderson; actor Will Sasso; The Weeknd performs.Guests: Pamela Anderson, Will Sasso..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131033700 -0500" stop="20250131040600 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131040600 -0500" stop="20250131043000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131043000 -0500" stop="20250131050000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ES.TV</title>
+    <desc lang="en">Taron Egerton ("Carry-On"); Krysten Ritter ("Sonic the Hedgehog 3"); Lin-Manuel Miranda and Barry Jenkins ("Mufasa"); Winona Ryder ("Beetlejuice Beetlejuice"); comic Natasha Leggero; music download: TWICE and Megan Thee Stallion ("Strategy").</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131050000 -0500" stop="20250131053000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131053000 -0500" stop="20250131060000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Justice for All With Judge Cristina Pérez</title>
+    <sub-title lang="en">Hoard to Help</sub-title>
+    <desc lang="en">A woman seeks compensation because a family friend disposed of valuable and sentimental property from her guest house without permission.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131060000 -0500" stop="20250131070000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Garcelle Beauvais ("The Real Housewives of Beverly Hills"); shopping day with Monica Mangin; Dr. William Li talks about food as medicine on another edition of "How to Thrive in '25."Guests: Garcelle Beauvais, Monica Mangin, Dr. William Li..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131070000 -0500" stop="20250131073000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131073000 -0500" stop="20250131080000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131080000 -0500" stop="20250131083000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131083000 -0500" stop="20250131090000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131090000 -0500" stop="20250131100000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News This Morning</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131100000 -0500" stop="20250131120000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Dr. Whitney Bowe with skincare tips for mature skin; wearable tech.Guests: Whitney Bowe..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131120000 -0500" stop="20250131130000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lauren Graham; the "How to Thrive in '25" series concludes with suggestions on how to increase GLP-1 naturally from Dr. Melina Jampolis; Aloe Blacc performs.Guests: Lauren Graham, Dr. Melina Jampolis..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131130000 -0500" stop="20250131140000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">The View</title>
+    <desc lang="en">"Good Morning America" co-host Michael Strahan.Guests: Michael Strahan..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131140000 -0500" stop="20250131150000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now Midday</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250131150000 -0500" stop="20250131160000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Author and pastor Jonathan "JP" Pokluda; organizational tips with Leslie Corona of Real Simple magazine.Guests: Jonathan..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131160000 -0500" stop="20250131170000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Ric and Ava make a plea; Dante confronts Anna; Brook Lynn seeks out Cody; Laura gives Lulu food for thought; Brad makes an outrageous request.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250131170000 -0500" stop="20250131173000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131173000 -0500" stop="20250131180000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Jackée Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jamie Kennedy.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131180000 -0500" stop="20250131183000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131183000 -0500" stop="20250131190000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131190000 -0500" stop="20250131200000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: Oregon News Now at 4:00</title>
+    <desc lang="en">Latest news on Oregon.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+  </programme>
+  <programme start="20250131200000 -0500" stop="20250131203000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 5:00</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131203000 -0500" stop="20250131210000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131210000 -0500" stop="20250131213000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131213000 -0500" stop="20250131220000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 6:30</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131220000 -0500" stop="20250131223000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250131223000 -0500" stop="20250131230000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250131230000 -0500" stop="20250201000100 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">Budding entrepreneurs get the chance to bring their dreams to fruition, presenting their ideas to five titans of industry who succeeded in making their own dreams a reality.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201000100 -0500" stop="20250201020000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201020000 -0500" stop="20250201023500 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201023500 -0500" stop="20250201033700 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <desc lang="en">Jimmy Kimmel hosts a diverse lineup of guests that includes celebrities, athletes, musical acts,comics and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250201033700 -0500" stop="20250201040600 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201040600 -0500" stop="20250201043000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201043000 -0500" stop="20250201050000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ES.TV</title>
+    <desc lang="en">Timothée Chalamet ("A Complete Unknown"); the filmmakers from "Den of Thieves 2: Pantera"; David Alan Grier ("St. Denis Medical"); Geena Davis ("Blink Twice"); comic Francisco Ramos; music download: Kacey Musgraves ("The Architect").</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201050000 -0500" stop="20250201053000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">KEZI 9 News at 11pm</title>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201053000 -0500" stop="20250201060000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Justice for All With Judge Cristina Pérez</title>
+    <sub-title lang="en">Car Wash Caper &amp; Forever Doesn't Last</sub-title>
+    <desc lang="en">A woman seeks compensation from a car wash owner because her keys got locked in her car; a dispute between a former couple over counseling session fees.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201060000 -0500" stop="20250201070000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <sub-title lang="en">How to Thrive in '25</sub-title>
+    <desc lang="en">Lauren Graham; the "How to Thrive in '25" series concludes with suggestions on how to increase GLP-1 naturally from Dr. Melina Jampolis; Aloe Blacc performs.Guests: Lauren Graham, Dr. Melina Jampolis..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201070000 -0500" stop="20250201073000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Pets.TV</title>
+    <sub-title lang="en">Urban Dog Mushing</sub-title>
+    <desc lang="en">Pet news, care, health and lifestyles.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201073000 -0500" stop="20250201080000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201080000 -0500" stop="20250201090000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Weather Gone Viral</title>
+    <sub-title lang="en">It's Snow Crazy</sub-title>
+    <desc lang="en">A series of videos capturing some of the most extreme and destructive weather conditions; firsthand accounts, and professional meteorologists experience the fury of Mother Nature.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">Documentary</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201090000 -0500" stop="20250201100000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201100000 -0500" stop="20250201110000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201110000 -0500" stop="20250201120000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Oregon News Now This Morning</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201120000 -0500" stop="20250201130000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">NFL Generations</title>
+    <desc lang="en">Bridging the game's past and present by pairing NFL legends with current NFL stars who grew up watching them.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201130000 -0500" stop="20250201153000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">Chicago Blackhawks at Florida Panthers</sub-title>
+    <desc lang="en">The latest hockey action from across the NHL.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250201153000 -0500" stop="20250201180000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: NHL Hockey</title>
+    <sub-title lang="en">New York Rangers at Boston Bruins</sub-title>
+    <desc lang="en">From TD Garden in Boston.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20250201180000 -0500" stop="20250201183000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Sport Stars Of Tomorrow</title>
+    <desc lang="en">Sports programing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201183000 -0500" stop="20250201190000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">The American Athlete</title>
+    <desc lang="en">NFL player Jason Cabinda; Olympic athlete Sabine Schut-Kery; Olympic rugby player Malacchi Esdale.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250201190000 -0500" stop="20250201193000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Career Day</title>
+    <sub-title lang="en">Disney Careers</sub-title>
+    <desc lang="en">Disney costume designer; Radio Disney DJ; Disneyland Resort ambassadors; Disney animator.</desc>
+    <category lang="en">Instructional</category>
+    <category lang="en">Children</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250201193000 -0500" stop="20250201200000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250201200000 -0500" stop="20250201203000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: NBA Countdown</title>
+    <desc lang="en">Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250201203000 -0500" stop="20250201230000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Live: NBA Basketball</title>
+    <sub-title lang="en">Los Angeles Lakers at New York Knicks</sub-title>
+    <desc lang="en">Professional basketball action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250201230000 -0500" stop="20250202000000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Kickin' It: With Byron Allen</title>
+    <desc lang="en">Jodie Turner-Smith ("The Agency"); Taika Waititi and Charles Yu ("Interior Chinatown"); Scott Eastwood; Andie MacDowell; Nicholas Hoult; Tilda Swinton; Lisa Sundstedt; Krysten Ritter; Pedro Pascal; Blake Lively; music download: Shawn Mendes.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Variety</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202000000 -0500" stop="20250202010000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202010000 -0500" stop="20250202020000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainers: With Byron Allen</title>
+    <desc lang="en">Timothée Chalamet ("A Complete Unknown"); Julia Stiles; Taron Egerton; Michelle Yeoh; Lin-Manuel Miranda and Barry Jenkins; Idris Elba; Chantel Rae; the kids from "Skeleton Crew"; Brian Cox; Justin Baldoni; music download: Kacey Musgraves.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202020000 -0500" stop="20250202023000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Oregon News Now at 11:00</title>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+    <previously-shown/>
+  </programme>
+  <programme start="20250202023000 -0500" stop="20250202030000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202030000 -0500" stop="20250202040000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Comedy.TV</title>
+    <desc lang="en">Host Bonnie McFarlane; comics Michael Somerville, Ron G, Noe Gonzalez, Tina Kim, Erik Griffin and Michael Kosta.</desc>
+    <category lang="en">Comedy</category>
+    <previously-shown/>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250202040000 -0500" stop="20250202050000 -0500" channel="ABC.(KEZI).Eugene,.OR.us">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">News and features about performers, productions and the milieu.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown/>
+  </programme>
+  </tv>
